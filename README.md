@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! I'm Abhigyan Saikia # Hi there! I'm Abhigyan Saikia
 
-<!--
-**abhigyansaikiaa/abhigyansaikiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and AI enthusiast, specializing in modern web architectures and intelligent application design. Passionate about building seamless user experiences and integrating advanced language models.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+* **[thetapechart](https://github.com/abhigyansaikiaa/thetapechart)**
+*   * *Real-time financial order book visualizer. Provides sub-millisecond updates and interactive charts for market liquidity analysis. Built with React & TypeScript.*
+    * * **[scamorai](https://github.com/abhigyansaikiaa/scamorai)**
+      *   * *AI-powered scam detection tool. Analyzes messages and URLs for deceptive patterns using LLM classification. TypeScript + OpenAI API.*
+          * * **[portfolio-2](https://github.com/abhigyansaikiaa/portfolio-2)**
+            *   * *Personal developer portfolio showcasing full-stack web applications, interactive UI designs, and technical projects. Built with Next.js & Tailwind CSS.*
+             
+                * ---
+             
+                * ### Skills and Technologies
+             
+                * * **Languages:** JavaScript, TypeScript, Python, C++
+                  * * **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Node.js
+                    * * **Tools & Services:** Supabase, OpenAI API, Vercel, Git
+                     
+                      * ---
+                     
+                      * ### Connect with Me
+                     
+                      * * **Website:** [abhigyan-portfolio-eta.vercel.app](https://abhigyan-portfolio-eta.vercel.app)
+                        * * **Email:** [abhigyansaikia.work@gmail.com](mailto:abhigyansaikia.work@gmail.com)
+                          * * **LinkedIn:** [abhigyan-saikia](https://linkedin.com/in/abhigyan-saikia)
+                            * 
